@@ -3,6 +3,7 @@ FLINTとarbをラップしたPython-FLINTがwindowsにも対応していたの�
 
 `https://github.com/flintlib/python-flint`より
 
+### 導入方法
 
 * pythonをインストール
 
@@ -21,13 +22,13 @@ from flint import *
 これだけで使える。
 
 
-* ドキュメント
+### ドキュメント
 
 ```
 https://fredrikj.net/python-flint/index.html
 ```
 
-* test.pyの実行結果
+### test.pyの実行結果
 
 ```
 10.2500000000000
