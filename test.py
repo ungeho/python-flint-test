@@ -4,7 +4,7 @@ from flint import *
 print(arb(10.25))
 
 # 2のべき乗の分母でない為、区間で表現される。
-# しかし、10.3という入力による丸め誤差が発生する為注意が日露
+# しかし、10.3という入力による丸め誤差が発生する為注意が必要
 # https://fredrikj.net/python-flint/general.html#inexact-numbers-and-numerical-evaluation
 print(arb(10.3))
 
