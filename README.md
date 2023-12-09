@@ -1,4 +1,4 @@
-FLINTとarbをラップしたPython-FLINTがwindowsにも対応していたので試用してみた
+Python-FLINTがwindowsにも対応していたので試用してみた
 
 
 `https://github.com/flintlib/python-flint`より
